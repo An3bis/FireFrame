@@ -1,0 +1,9 @@
+{
+    "name": "domain/store",
+    "require": {},
+	"autoload": {
+		"psr-4": {
+			"Engine\\": "engine"
+		}
+	}
+}

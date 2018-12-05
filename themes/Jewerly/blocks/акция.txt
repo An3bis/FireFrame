@@ -1,0 +1,14 @@
+<!-- 
+<div class="coll coll-2">
+	<strong class="title">LAST CHANCE</strong>
+	<div class="offer-txt">
+		<span class="txt">sale</span>
+		<span class="offer-sale">40%</span>
+		<span class="txt-about">Pharetra, erat sed <br>fermentum feugiat, velit <br>mauris egestas quam. </span>
+		<a href="#" class="btn-more">Read more <i class="icon-right-arrow"></i></a>
+		<div class="img-holder">
+			<img src="http://placehold.it/150x100" alt="image description">
+		</div>
+	</div>
+</div>
+-->		  
